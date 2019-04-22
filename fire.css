@@ -1,0 +1,64 @@
+.color-0 {
+    background-color: black;
+}
+
+.color-1 {
+    background-color: rgb(245, 206, 14);
+}
+
+.color-2 {
+    background-color: rgb(249, 137, 63);
+}
+
+.color-3 {
+    background-color: #FF4E41;
+}
+
+.color-4 {
+    background-color: #DA3330;
+}
+
+.color-5 {
+    background-color: #A21212;
+}
+
+.color-6 {
+    background-color: red;
+}
+
+.color-7 {
+    background-color: white;
+}
+
+body {
+    background-color: black;
+    font-family: 'Anton';
+}
+
+#main-container {
+    width: 90vw;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#fire-table {
+    margin: 0 auto;
+    border: solid 1px white;
+
+    border-collapse: collapse;
+}
+
+tr {
+    /* border: solid 1px white; */
+    /* height: 35px; */
+}
+
+td {
+    /* border: solid 1px white; */
+    /* height: 35px; */
+    /* width: 35px; */
+}
